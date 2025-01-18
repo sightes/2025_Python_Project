@@ -1,6 +1,6 @@
 .PHONY: all clean
 
-# Variables
+# asdasdasVariables
 ANALYSIS = $(analysis)
 DATE = $(shell date +"%Y_%m_%d")
 PROJECT = $(DATE)_$(ANALYSIS)
